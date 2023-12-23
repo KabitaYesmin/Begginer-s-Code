@@ -1,0 +1,5 @@
+#formatted-string
+first = 'john'
+last = 'smith'
+msg =f'{first}[{last} ]is a coder'
+print(msg)
